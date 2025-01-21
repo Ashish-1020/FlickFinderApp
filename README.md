@@ -1,4 +1,3 @@
-Here is the updated README file with the inclusion of **Coil** for image loading:
 
 ---
 
