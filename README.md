@@ -94,7 +94,21 @@ The project adheres to **MVVM Architecture** principles:
 - Implement a toggle feature for light and dark mode themes.
 - Add user authentication to provide personalized recommendations.
 
+## Screenshots
+![WhatsApp Image 2025-01-22 at 00 15 29_57ab83b2](https://github.com/user-attachments/assets/f109e499-6788-4f16-aeef-b07c199fcb05)
+  
+![WhatsApp Image 2025-01-22 at 00 15 29_43797e45](https://github.com/user-attachments/assets/4d9e95e8-7ab4-414d-b8d3-8d51d61e32de)   
+  
+![WhatsApp Image 2025-01-22 at 00 15 30_9f71b5a4](https://github.com/user-attachments/assets/982facfc-c588-47a8-8092-e193e16a51bd)
+  
+![WhatsApp Image 2025-01-22 at 00 15 30_ba1f2d96](https://github.com/user-attachments/assets/1e558171-6648-4274-af22-d9812db006b1)
+  
+![WhatsApp Image 2025-01-22 at 00 15 31_de44fb37](https://github.com/user-attachments/assets/7d23f55d-0462-4462-a794-b414e041a0c0)
+  
+![WhatsApp Image 2025-01-22 at 00 15 28_86583926](https://github.com/user-attachments/assets/973ef92b-cb4f-4460-937a-9d361e9b1a64)
+
 ## Conclusion
 This project was a valuable opportunity to delve into modern Android development practices. Overcoming challenges such as creating shimmer effects, implementing Single.zip, and integrating Coil for efficient image loading strengthened my understanding of Jetpack Compose, RxKotlin, Hilt, and Coil. The final application provides a smooth and interactive experience for users exploring movies and TV shows.
 
 ---
+
