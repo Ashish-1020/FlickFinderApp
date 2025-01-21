@@ -4,7 +4,7 @@
 # FlickFinder App: Movie & TV Show Discovery
 
 ### Download APK and watch the demo video 
-You can download the APK for the **FlickFinder App** from [Google Drive]([https://drive.google.com/file/d/1ABCxyz/view?usp=sharing](https://drive.google.com/drive/folders/1vqBu_kiWAyYSWLFoElVsrtIxkCOFOn-g)).
+You can download the APK for the **FlickFinder App** from [Google Drive](https://drive.google.com/drive/folders/1vqBu_kiWAyYSWLFoElVsrtIxkCOFOn-g).
 
 ## Overview
 This project is an Android application built using **Jetpack Compose** that allows users to explore a wide range of movies and TV shows using the **Watchmode API**. The app focuses on providing a seamless and engaging user experience with modern design patterns and smooth animations.
