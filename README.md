@@ -3,6 +3,12 @@
 
 # FlickFinder App: Movie & TV Show Discovery
 
+## Screenshots
+
+![Untitled design](https://github.com/user-attachments/assets/140d5237-9d22-4b23-9ad9-c68532f2f792)
+
+![Untitled design (1)](https://github.com/user-attachments/assets/263dc0dd-ed5f-4399-91ad-4b29863621ca)
+
 ### Download APK and watch the demo video 
 You can download the APK for the **FlickFinder App** from [Google Drive](https://drive.google.com/drive/folders/1vqBu_kiWAyYSWLFoElVsrtIxkCOFOn-g).
 
@@ -93,14 +99,6 @@ The project adheres to **MVVM Architecture** principles:
 - Introduce a search bar to quickly locate specific movies or TV shows.
 - Implement a toggle feature for light and dark mode themes.
 - Add user authentication to provide personalized recommendations.
-
-## Screenshots
-
-![Untitled design](https://github.com/user-attachments/assets/140d5237-9d22-4b23-9ad9-c68532f2f792)
-
-![Untitled design (1)](https://github.com/user-attachments/assets/263dc0dd-ed5f-4399-91ad-4b29863621ca)
-
-
 
 ## Conclusion
 This project was a valuable opportunity to delve into modern Android development practices. Overcoming challenges such as creating shimmer effects, implementing Single.zip, and integrating Coil for efficient image loading strengthened my understanding of Jetpack Compose, RxKotlin, Hilt, and Coil. The final application provides a smooth and interactive experience for users exploring movies and TV shows.
