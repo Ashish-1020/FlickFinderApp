@@ -95,6 +95,7 @@ The project adheres to **MVVM Architecture** principles:
 - Add user authentication to provide personalized recommendations.
 
 ## Screenshots
+![Untitled design (1)](https://github.com/user-attachments/assets/263dc0dd-ed5f-4399-91ad-4b29863621ca)
 ![WhatsApp Image 2025-01-22 at 00 15 29_57ab83b2](https://github.com/user-attachments/assets/f109e499-6788-4f16-aeef-b07c199fcb05)
   
 ![WhatsApp Image 2025-01-22 at 00 15 29_43797e45](https://github.com/user-attachments/assets/4d9e95e8-7ab4-414d-b8d3-8d51d61e32de)   
@@ -111,4 +112,5 @@ The project adheres to **MVVM Architecture** principles:
 This project was a valuable opportunity to delve into modern Android development practices. Overcoming challenges such as creating shimmer effects, implementing Single.zip, and integrating Coil for efficient image loading strengthened my understanding of Jetpack Compose, RxKotlin, Hilt, and Coil. The final application provides a smooth and interactive experience for users exploring movies and TV shows.
 
 ---
+
 
